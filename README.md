@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cs2-butterfly-knife-pricing-fxrgxgsax42hrtnpkucw9y.streamlit.app/)
 
 An empirical study on virtual asset valuation within the *Counter-Strike 2* digital economy, focusing on **Butterfly Knife** skins. This project serves as the practical implementation of a Bachelor's thesis, bridging microeconomic theory (Rosen's hedonic pricing model) with machine learning techniques and exploratory market data analysis.
 
